@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\erlgi\\erlgi.csproj",
+      "projectUniqueName": "C:\\TEMP\\erlgi\\erlgi.csproj",
       "projectName": "erlgi",
-      "projectPath": "C:\\git\\erlgi\\erlgi.csproj",
+      "projectPath": "C:\\TEMP\\erlgi\\erlgi.csproj",
       "packagesPath": "C:\\Users\\egillarsen\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\erlgi\\obj\\",
+      "outputPath": "C:\\TEMP\\erlgi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
